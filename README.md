@@ -12,6 +12,7 @@
 ![react](https://www.parkitny.eu/ref/icons/react.png?raw=true "React")
 ![git](https://www.parkitny.eu/ref/icons/git.png?raw=true "Git")
 ![sass](https://www.parkitny.eu/ref/icons/sass.png?raw=true "SASS")
+![node](https://www.parkitny.eu/ref/icons/node.png?raw=true "node")
 ![webpack](https://www.parkitny.eu/ref/icons/webpack.png?raw=true "Webpack")
 
 #### Get in touch
