@@ -13,7 +13,7 @@
 ![js](https://www.parkitny.eu/ref/icons/js.png)
 ![react](https://www.parkitny.eu/ref/icons/react.png)
 ![git](https://www.parkitny.eu/ref/icons/git.png)
-
+![sass](https://www.parkitny.eu/ref/icons/sass.png)
 
 #### Get in touch
 * E-mail: krzysztof@parkitny.eu
