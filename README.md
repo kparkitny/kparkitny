@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-* 💻 Junior Developers Interested in Web and Infrastructure
+ 💻 Junior Developers Interested in Web and Infrastructure
 * ⏰ I think perseverance is my biggest strength
 * 📝 I mainly use Javascript and React, and I'm interested in new Frontend technology
 (...)
