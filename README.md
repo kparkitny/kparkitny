@@ -6,12 +6,9 @@ Few facts:
 * 📝 I mainly use Javascript and React, and I'm interested in new Frontend technology
 * 🤔 I’m looking for my first job in Front-end world
 
-- 💬 Any questions, just ask: krzysztof@parkitny.eu & https://www.linkedin.com/in/krzysztof-parkitny/
-
-
 
 #### Languages and Tools
-
+![js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
 
 #### Get in touch
