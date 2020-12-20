@@ -1,7 +1,5 @@
 ### Hi everyone 👋 My name's Krzysiek and i lived in Warsaw (Poland)
 
-![hello](https://media-exp1.licdn.com/dms/image/C4E16AQGZrsOhNjvTMw/profile-displaybackgroundimage-shrink_350_1400/0/1603799077313?e=1614211200&v=beta&t=wuWCbJy9E0AgY4YFYpgQNuRJm4ZWOVvePdfK6PqaUKI)
-
 #### Few facts:
 * 💻 Junior Developers interested in web development
 * ⏰ I think perseverance is my biggest strength
@@ -11,10 +9,10 @@
 
 #### Languages and Tools
 ![js](https://www.parkitny.eu/ref/icons/js.png?raw=true "JavaScript")
-![react](https://www.parkitny.eu/ref/icons/react.png)
-![git](https://www.parkitny.eu/ref/icons/git.png)
-![sass](https://www.parkitny.eu/ref/icons/sass.png)
-![webpack](https://www.parkitny.eu/ref/icons/webpack.png)
+![react](https://www.parkitny.eu/ref/icons/react.png?raw=true "React")
+![git](https://www.parkitny.eu/ref/icons/git.png?raw=true "Git")
+![sass](https://www.parkitny.eu/ref/icons/sass.png?raw=true "SASS")
+![webpack](https://www.parkitny.eu/ref/icons/webpack.png?raw=true "Webpack")
 
 #### Get in touch
 * E-mail: krzysztof@parkitny.eu
