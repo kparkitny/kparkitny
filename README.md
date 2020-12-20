@@ -1,4 +1,4 @@
-### Hi everyone 👋 My name's Krzysiek and i lived in Warsaw (Poland)
+### Hi everyone 👋 My name's Krzysiek and i live in Warsaw (Poland)
 
 #### Few facts:
 * 💻 Junior Developers interested in web development
