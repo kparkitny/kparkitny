@@ -7,7 +7,7 @@
 * 🤔 I’m looking for my first job in Front-end world
 
 #### Languages and Tools
-![#](https://www.parkitny.eu/ref/icons/js.png?raw=true "JavaScript")
+![js](https://www.parkitny.eu/ref/icons/js.png?raw=true "JavaScript")
 ![react](https://www.parkitny.eu/ref/icons/react.png?raw=true "React")
 ![git](https://www.parkitny.eu/ref/icons/git.png?raw=true "Git")
 ![sass](https://www.parkitny.eu/ref/icons/sass.png?raw=true "SASS")
