@@ -7,13 +7,14 @@
 * ⏰ I think perseverance is my biggest strength
 * 📝 I mainly use Javascript and React, and I'm interested in new Frontend technology
 * 🤔 I’m looking for my first job in Front-end world
-
+8
 
 #### Languages and Tools
-![js](https://www.parkitny.eu/ref/icons/js.png)
+![js](https://www.parkitny.eu/ref/icons/js.png?raw=true "JavaScript")
 ![react](https://www.parkitny.eu/ref/icons/react.png)
 ![git](https://www.parkitny.eu/ref/icons/git.png)
 ![sass](https://www.parkitny.eu/ref/icons/sass.png)
+![webpack](https://www.parkitny.eu/ref/icons/webpack.png)
 
 #### Get in touch
 * E-mail: krzysztof@parkitny.eu
