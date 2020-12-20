@@ -8,7 +8,9 @@ Few facts:
 
 
 #### Languages and Tools
-![js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![js](ttps://www.parkitny.eu/ref/icons/js.png)
+![react](ttps://www.parkitny.eu/ref/icons/react.png)
+![git](ttps://www.parkitny.eu/ref/icons/git.png)
 
 
 #### Get in touch
