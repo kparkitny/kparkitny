@@ -1,3 +1,2 @@
 #### Get in touch
-* E-mail: krzysztof@parkitny.eu
-* LinkedIn: https://www.parkitny.eu/ref/li
+* LinkedIn: [https://www.parkitny.eu/ref/li](https://www.linkedin.com/in/krzysztof-parkitny/)https://www.linkedin.com/in/krzysztof-parkitny/
